@@ -1,0 +1,8 @@
+packages:
+  - 'apps/*'
+  - 'packages/*'
+
+pnpm:
+  overrides:
+    '@types/react': 18.3.28
+    'react': 18.3.1
